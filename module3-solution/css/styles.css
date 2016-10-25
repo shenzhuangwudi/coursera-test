@@ -5,6 +5,7 @@
 
 p{
   height: 1000px;
+  margin: 10px;
 }
 
 h1{
@@ -26,12 +27,15 @@ h3{
 
 #chicken{
 background-color: green;
+margin: 10px;
 }
 #beef{
 background-color: gray;
+margin: 10px;
 }
 #suchi{
 background-color: blue;
+margin: 10px;
 }
 
 #page-header {
